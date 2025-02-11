@@ -22,7 +22,8 @@ Kendi projelerimi yaratmayı, yeni teknolojileri keşfetmeyi ve öğrendiklerimi
 
 ### 📂 Portföy Projelerim
 
-- 🌐 **Web Sayfaları**: Bugüne kadar **6'dan fazla profesyonel web sayfası** geliştirdim.  
+- 🌐 **Web Sayfaları**: Bugüne kadar **6'dan fazla profesyonel web sayfası** geliştirdim.
+- 💻 **Bir firma icin C# ile bir masaüstü yazilimi yaptim.
 - 📦 **MongoDB Projesi**: Veri tabanı yönetimi ve modern API geliştirme üzerine proje geliştirdim.  
 - ☁️ **Bulut ve AI Çalışmaları**: Docker ile konteynerleştirme, cloud computing ve yapay zeka üzerinde denemeler yaptım.  
 
